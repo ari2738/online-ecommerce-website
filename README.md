@@ -26,9 +26,22 @@ python manage.py runserver 8000
 cd frontend
 npm install
 npm run dev
-```
 
-Open http://localhost:5173
+**website preview**
+
+<img width="1892" height="912" alt="Screenshot 2026-06-24 164849" src="https://github.com/user-attachments/assets/524d2ee5-be54-4c4d-b6fa-1cce7478a37f" />
+
+<img width="1888" height="875" alt="Screenshot 2026-06-24 165528" src="https://github.com/user-attachments/assets/6bc973b2-501e-44d2-96bb-68a4933f59ae" />
+
+
+<img width="1891" height="913" alt="Screenshot 2026-06-24 165353" src="https://github.com/user-attachments/assets/9fa3991f-b414-477c-ba59-b01fc5a10958" />
+
+<img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/c6d67ca1-fffe-4b4e-b412-6c4e520700c3" />
+
+
+<img width="1885" height="896" alt="Screenshot 2026-06-24 171541" src="https://github.com/user-attachments/assets/37cd4307-2a04-4bd9-ac9a-27b234b6fe53" />
+
+
 
 ## Demo Accounts
 
